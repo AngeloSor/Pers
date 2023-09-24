@@ -11,14 +11,14 @@ PersApp (2.azurestaticapps.net)
 
 Credenziali di accesso:
 
-Admin:
+-Admin:
 Email: marcomanzo@pers.it
 Password: marcomanzo
 
-HR:
+-HR:
 Email: hr@alten.it
 Password: provaM
 
-BM:
+-BM:
 Email: bm@alten.it
 Password: provaM
